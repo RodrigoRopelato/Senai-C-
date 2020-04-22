@@ -1,0 +1,13 @@
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\bin\Debug\netcoreapp3.1\Data e Hora.exe
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\bin\Debug\netcoreapp3.1\Data e Hora.deps.json
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\bin\Debug\netcoreapp3.1\Data e Hora.runtimeconfig.json
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\bin\Debug\netcoreapp3.1\Data e Hora.runtimeconfig.dev.json
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\bin\Debug\netcoreapp3.1\Data e Hora.dll
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\bin\Debug\netcoreapp3.1\Data e Hora.pdb
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.dll
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.pdb
+C:\Users\rodri\Desktop\Senai\C#\Data e Hora\Data e Hora\obj\Debug\netcoreapp3.1\Data e Hora.genruntimeconfig.cache
